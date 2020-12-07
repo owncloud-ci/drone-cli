@@ -17,7 +17,7 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/mattn/go-colorable v0.1.4
 	github.com/mattn/go-isatty v0.0.11
-	github.com/owncloud-ci/drone-go v1.4.1-0.20201207174005-4f28a5276203 // indirect
+	github.com/owncloud-ci/drone-go v1.4.1-0.20201207174005-4f28a5276203
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	github.com/urfave/cli v1.20.0
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5
