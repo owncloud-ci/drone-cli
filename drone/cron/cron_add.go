@@ -2,7 +2,7 @@ package cron
 
 import (
 	"github.com/drone/drone-cli/drone/internal"
-	"github.com/drone/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/drone"
 
 	"github.com/urfave/cli"
 )

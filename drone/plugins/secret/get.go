@@ -4,8 +4,8 @@ import (
 	"context"
 
 	"github.com/drone/drone-cli/drone/internal"
-	"github.com/drone/drone-go/drone"
-	"github.com/drone/drone-go/plugin/secret"
+	"github.com/owncloud-ci/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/plugin/secret"
 	"github.com/urfave/cli"
 )
 

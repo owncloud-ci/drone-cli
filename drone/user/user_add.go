@@ -3,7 +3,7 @@ package user
 import (
 	"fmt"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/drone"
 	"github.com/urfave/cli"
 
 	"github.com/drone/drone-cli/drone/internal"

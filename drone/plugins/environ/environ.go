@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/drone/drone-cli/drone/internal"
-	"github.com/drone/drone-go/drone"
-	"github.com/drone/drone-go/plugin/environ"
+	"github.com/owncloud-ci/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/plugin/environ"
 	"github.com/urfave/cli"
 )
 

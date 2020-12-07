@@ -6,7 +6,7 @@ import (
 	"github.com/urfave/cli"
 
 	"github.com/drone/drone-cli/drone/internal"
-	"github.com/drone/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/drone"
 )
 
 var userUpdateCmd = cli.Command{

@@ -6,7 +6,6 @@ replace github.com/docker/docker => github.com/docker/engine v17.12.0-ce-rc1.0.2
 
 require (
 	github.com/docker/go-units v0.3.3
-	github.com/drone/drone-go v1.4.1-0.20201109202657-b9e58bbbcf27
 	github.com/drone/drone-runtime v1.1.1-0.20200623162453-61e33e2cab5d
 	github.com/drone/drone-yaml v0.0.0-20190729072335-70fa398b3560
 	github.com/drone/envsubst v1.0.1
@@ -18,6 +17,7 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/mattn/go-colorable v0.1.4
 	github.com/mattn/go-isatty v0.0.11
+	github.com/owncloud-ci/drone-go v1.4.1-0.20201207174005-4f28a5276203 // indirect
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
 	github.com/urfave/cli v1.20.0
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5

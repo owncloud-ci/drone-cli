@@ -3,8 +3,8 @@ package admit
 import (
 	"context"
 
-	"github.com/drone/drone-go/drone"
-	"github.com/drone/drone-go/plugin/admission"
+	"github.com/owncloud-ci/drone-go/drone"
+	"github.com/owncloud-ci/drone-go/plugin/admission"
 	"github.com/urfave/cli"
 )
 
