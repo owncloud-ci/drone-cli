@@ -11,7 +11,7 @@ steps:
 - name: publish_latest
   image: plugins/docker
   settings:
-    repo: drone/cli
+    repo: owncloudci/drone-cli
     username:
       from_secret: public_username
     password:
